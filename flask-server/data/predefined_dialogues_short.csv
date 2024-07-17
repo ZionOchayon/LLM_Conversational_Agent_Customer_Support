@@ -1,0 +1,33 @@
+id,user,agent
+1,What's the return policy for items purchased online? And can I check my order status?,You can return online purchases in-store or by mail within 30 days. Please provide your order ID to check the status.
+1,Order ID is 167,Your order with ID 167 has been delivered.
+2,I want to talk to a human representative.,"I can assist with that. Please provide your full name, email, and phone number."
+2,"Chris, chris@example.com, 054-678-9123",It looks like there's an issue with the name you provided. Could you please provide your full name including both your first and last names?
+2,"Chris Lee, chris@example.com, 054-678-9123",Thank you Chris. A representative will contact you shortly.
+2,Also what's your return policy for items purchased at your store?,You can return most items within 30 days of purchase for a full refund or exchange.
+2,What if I lost my receipt?,"If you lost your receipt, we might be able to look up your purchase using your order ID or the credit card used for the purchase."
+3,What's the status of my order? Also I need to know your return policy.,Could you please provide your order ID? You can return most items within 30 days of purchase for a full refund or exchange. Items must be in their original condition with all tags and packaging intact.
+3,It's 245,It looks like the order ID you provided is not valid. Please provide an order ID between 100 and 200.
+3,It's 145,Your order with ID 145 has been delivered. 
+4,Can I get help from a real person?,"Absolutely. May I have your full name, email, and phone number?"
+4,"Emma White, emma, 052-987-6543",It looks like there's an issue with the email address you provided. Could you please provide a valid email address?
+4,"Emma White, emma@example.com, 052-987-6543",Thank you Emma. A representative will contact you soon.
+4,How long do I have to wait for my refund after returning an item?,I don�t have infromation about the time of the return proces. Would you like to speak to human representative?
+4,Will the refund include shipping costs?,I dont have such infromation. Would you like to speak to human representative?
+5,I need to talk to someone.,"I can arrange that. Please provide your full name, email, and phone number."
+5,"Mike Johnson, mike@example.com, 9876543",It looks like there's an issue with the phone number you provided. Could you please provide a valid Israel phone number?
+5,"Mike Johnson, mike@example.com, 053-8765432",Thank you Mike. A representative will be in touch with you shortly.
+6,Can I speak to a person? Also are personal care items returnable?,"Sure, I can help. May I have your full name, email, and phone number?, Personal care items are non-returnable."
+6,"Emma Brown, emma@example.com, 050-432-1987",Thank you Emma. A representative will contact you soon.
+7,Can I return an item bought on sale? Also I want to check my order status.,"Yes, items bought on sale can be returned within 30 days. Please provide your order ID to check the status."
+7,Order ID is 134,Your order with ID 134 is being processed.
+8,What's the status of my order?,Please provide your order ID.
+8,Order ID is 189,Your order with ID 189 is being processed.
+8,What should I do if I received the wrong item?,"If you received the wrong item, please contact our customer service immediately."
+8,How long will it take to get the correct item?,I dont have such infromation. Would you like to speak to our contact our customer service?
+9,What's happening with my order? And can I return an item after 30 days?,"Could you please share your order ID with me?, Unfortunately, items returned after 30 days are not eligible for a refund or exchange."
+9,The order ID is 167,Your order with ID 167 has been delivered.
+10,Can I return items without the original packaging?,Items must be returned in their original packaging.
+10,Also what's my order status?,Please provide your order ID.
+10,Order ID is 156,Your order with ID 156 is being processed.
+10,What if the item is damaged?,"If the item is damaged, please contact our customer service immediately."
